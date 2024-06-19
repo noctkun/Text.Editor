@@ -1,6 +1,5 @@
 # Text.Editor
 
-# Text Editor
 A rich text editor implemented in Python using Tkinter
 
 ## Running Text Editor
